@@ -27,7 +27,9 @@ php artisan serve
 please check in postman or in browser:
 
 127.0.0.1:80
+
 http://127.0.0.1:80/api/history/id -- get method
+
 To display the history of the user
 
 Database Design is attached with the project folder
